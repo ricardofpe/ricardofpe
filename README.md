@@ -1,4 +1,4 @@
-### Olá Eu Sou Ricardo F Pereira, Desenvolvedor de Software!
+### Hello, I'm Ricardo F Pereira, Software Developer!
 
 
 
