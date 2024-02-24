@@ -24,7 +24,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Ricardo-Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
        <img align="center" alt="Ricardo-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-              <img align="center" alt="Ricardo-Angular.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+              <img align="center" alt="Ricardo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="Ricardo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Ricardo-TailwindCss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div><br><br>
