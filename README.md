@@ -24,20 +24,18 @@
   <img align="center" alt="Ricardo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 
 
+   <img align="center" alt="Ricardo-TailwindCss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Ricardo-.Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+      <img align="center" alt="Ricardo-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+
   
  
  
 </div>
 
-### Skills that I am Learning now:
-  
-<div style="display: inline_block">
 
-  <img align="center" alt="Ricardo-TailwindCss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Ricardo-.Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
-      <img align="center" alt="Ricardo-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 
-  
+ 
  
  
 </div><br><br>
