@@ -12,11 +12,14 @@
 
   <img align="center" alt="Ricardo-Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Ricardo-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+     <img align="center" alt="Ricardo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+       <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
        <img align="center" alt="Ricardo-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
              
-  <img align="center" alt="Ricardo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+
   
-  <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
  <img align="center" alt="Ricardo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
  
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
